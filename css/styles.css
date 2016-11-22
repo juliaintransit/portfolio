@@ -1,0 +1,44 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #808080;
+  font-weight: 300;
+  padding: 10px;
+}
+
+hr{
+  display: block;
+     height: 3px;
+     border: 0;
+     border-top: 3px solid #a5a4cc;
+     margin: 1em 0;
+     padding: 0;
+}
+a{
+  color:#a5a4cc
+}
+footer{
+  color: #a5a4cc;
+  height: 5em;
+  font-size: 2em;
+  padding: 10px;
+}
+
+.text-muted{
+  color: #819fd1;
+}
+
+.text-thin{
+  font-weight: 100;
+}
+
+.title-large{
+  font-size: 40px;
+}
+
+.title-logo{
+  margin-top: 20px;
+}
+
+.title{
+  margin-right: 5px;
+}
